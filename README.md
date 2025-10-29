@@ -178,7 +178,7 @@ Real-time Spotify Status
 │  "In a world run by code, creativity is the compiler.   │
 │   Innovate with purpose, debug with persistence,        │
 │   and deploy your dreams into reality."                 │
-│                                        – Mazin Azeez    │
+│                                      – Mazin Abdul Azeez│
 │                                                         │
 ╰─────────────────────────────────────────────────────────╯
 ```
