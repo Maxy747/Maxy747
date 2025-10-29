@@ -114,22 +114,24 @@
 
 <div align="center">
 
-## 🎵 AUDIO STREAM
+## 🎵 NOW PLAYING
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=316aeslb433hasbf5nhj4btnt4ci&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ff61f6&bar_color_cover=false)](https://open.spotify.com/user/316aeslb433hasbf5nhj4btnt4ci)
 
 ```
 ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪
 ```
-Now playing: Neural Beats for Coders    
+Real-time Spotify Status    
                                     
 ```
-├── Volume: ████████████ 100%
-├── Status: 🔄 Loop mode activated
-└── Mood: AI Engineer Mode Active
+├── Status: 🎵 Live from Spotify
+├── Theme: Neural Beats Mode
+└── Vibe: AI Engineer Energy
 
 ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪ ♪ ♫ ♪
 ```
 
-[![Now Playing](https://img.shields.io/badge/🎵_Focus_Playlist-FF61F6?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX7EF8wVxBVhG)
+[![My Playlist](https://img.shields.io/badge/🎵_My_Playlist-FF61F6?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3aXbaGk6uDGTrfNJkaFKaG)
 
 </div>
 
